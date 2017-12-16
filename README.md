@@ -1,5 +1,11 @@
 Docker Swarm 源码分析
 ============
+> 原文：[Docker Swarm 源码分析](https://github.com/yeasy/Docker_Swarm_code)
+
+> 作者：[yeasy](https://github.com/yeasy)
+
+> 版本：V0.1: 2015-06-17
+
 [Swarm](https://github.com/docker/swarm) 是 Docker 官方推出的 Docker 容器集群管理项目。通过它，你可以在多个机器构建的集群上使用 Docker 容器，而无需关心具体被分配到哪台机器上。
 
 本书将剖析 Swarm 组件的代码。
